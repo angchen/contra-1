@@ -1,8 +1,8 @@
 Overview
 ====
-Contra is a language taking high-level policy as input and generating distributed switch programs which follow the path constraints and performance preference.
+Contra is a language that takes a high-level policy as input and generates distributed switch programs, which route packets based on the path constraints and performance preference.
 
-This repository includes all the things you need to run mininet emulation with Contra.
+This repository includes everything you need to run Mininet emulation with Contra.
 
 *Note:* Instead of cloning this repository, please just download the `P4-mininet-cluster/packages.sh` and `P4-mininet-cluster/cloudLabSetup.py` scripts and follow the following instructions to setup the environment with them automatically which includes the cloning of this repository.
 
